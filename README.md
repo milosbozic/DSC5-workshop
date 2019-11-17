@@ -36,6 +36,7 @@ Data are real but this is only one part of oilfield wells data and exactly well'
 `DSC5-workshop-colab.ipynb` Colab notebook file  
 `DSC5_workshop.ipynb` - jupyter notebook file, generated from Colab notebook file
 
+At the end od modeling proces, trained model have to be deployed in production and for that purpose small Flask app is made to serve model. [App code is in this repo](https://github.com/milosbozic/DSC5-workshop-flask-app).
 
 
 
