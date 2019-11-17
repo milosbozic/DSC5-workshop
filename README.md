@@ -14,7 +14,7 @@ _Workshop presence requirements:_
 * Basic knowledge of machine-learning theory 
 * Desirable but not necessary knowledge of pandas, scikit-learn and matplotlib libraries.
 
-Data used in this workshop are real well's log data from 25 wells from NIS oilfield (about 15832 examples in total) with four log variables:
+Data used in this workshop are real well's log data from 25 wells from one __NIS__ oilfield (about 15832 examples in total) with four log variables:
 * Gamma ray (GR)
 * Resistivity (RT)
 * Neutron porosity (CN)
@@ -29,10 +29,11 @@ and lighology facies classes:
 * Secondary
 
 Data are real but this is only one part of oilfield wells data and exactly well's names and descriptions are hidden.  
+
 **NIS-GAZPROM is data owner and data can be used only for non-comercial purposes.**
 
 
-`Data_DigitalCore.csv` - data file
+`Data_DigitalCore.csv` - data file  
 `DSC5-workshop.ipynb` - workshop notebook
 
 
