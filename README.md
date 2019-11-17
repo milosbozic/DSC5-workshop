@@ -32,11 +32,9 @@ Data are real but this is only one part of oilfield wells data and exactly well'
 
 **NIS-GAZPROM is data owner and data can be used only for non-comercial purposes.**
 
-
 `Data_DigitalCore.csv` - data file  
-`DSC5-workshop.ipynb` - workshop notebook
-
-
+`DSC5-workshop-colab.ipynb` Colab notebook file
+`DSC5-workshop.ipynb` - workshop notebook file generated from Colab notebook file
 
 
 
